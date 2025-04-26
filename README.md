@@ -8,7 +8,7 @@ Room Database도 구현을 시도했으나, iOS 플랫폼에서 NSFileManager �
 
 ---
 
-## 프로젝트 설명 🔍
+## 프로젝트 설명
 
 CMP-BookApp은 하나의 코드베이스로 Android, iOS, Desktop을 모두 지원하는 Kotlin Multiplatform 프로젝트입니다.  
 공통 비즈니스 로직과 UI를 최대한 공유하고, 각 플랫폼 특화 기능은 별도 모듈에서 처리하는 구조로 설계되었습니다.
@@ -17,7 +17,7 @@ CMP-BookApp은 하나의 코드베이스로 Android, iOS, Desktop을 모두 지�
 
 ---
 
-## 주요 기능 🚀
+## 주요 기능
 
 - **Kotlin Multiplatform 지원**
   - Android, iOS, Desktop을 단일 코드베이스로 관리
@@ -36,7 +36,7 @@ CMP-BookApp은 하나의 코드베이스로 Android, iOS, Desktop을 모두 지�
 
 ---
 
-## 기술 스택 🧰
+## 기술 스택
 
 - **UI 및 멀티플랫폼 개발**
   - [Kotlin Multiplatform](https://kotlinlang.org/lp/mobile/)
@@ -51,7 +51,7 @@ CMP-BookApp은 하나의 코드베이스로 Android, iOS, Desktop을 모두 지�
 
 ---
 
-## 참고 자료 📖
+## 참고 자료
 
 [Build a Clean Code Book App - Philipp Lackner](https://youtu.be/WT9-4DXUqsM?list=PLx76Utfso22Qf1wbc6phwDhAOgM6GLSY1)
 
