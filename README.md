@@ -1,3 +1,10 @@
+코틀린 멀티플랫폼을 사용해서 만들어본 책 검색 앱.
+외국 책 검색 API를 활용해서 만들었다.
+코틀린 멀티플랫폼을 사용해서 만들어본 책 검색 앱.
+외국 책 검색 API를 활용해서 만들었다.
+API 통신은 Ktor로 구현했고 DI는 Koin을 사용하였다.
+Room DB를 구현하다가 IOS 단에서 NSFileManager 부분에서 자꾸 오류가 나서... 아쉽지만 중간에 마무리를 하였다.
+
 This is a Kotlin Multiplatform project targeting Android, iOS, Desktop.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
